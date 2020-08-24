@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TekCoreNetwork-Swift.h</key>
 		<data>
-		OysC9K74+RaJlUBEmmsAvyqyA1A=
+		YqH1Pyp/m99sF2KYshKt1cSVHP0=
 		</data>
 		<key>Headers/TekCoreNetwork.h</key>
 		<data>
@@ -15,6 +15,30 @@
 		<key>Info.plist</key>
 		<data>
 		zynqB4Qs0PzOCw09HEnbhv/MpgE=
+		</data>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<data>
+		jFuKPmHl9bQa+oqlKtEfDOdx/f4=
+		</data>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
+		<data>
+		BIEdIB+RByZ0ogLrEa8sgD7xu+g=
+		</data>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<data>
+		iZV/CsrJXAHe1P/NrNb4KmVAph8=
+		</data>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386.swiftdoc</key>
+		<data>
+		jFuKPmHl9bQa+oqlKtEfDOdx/f4=
+		</data>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386.swiftinterface</key>
+		<data>
+		BIEdIB+RByZ0ogLrEa8sgD7xu+g=
+		</data>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386.swiftmodule</key>
+		<data>
+		iZV/CsrJXAHe1P/NrNb4KmVAph8=
 		</data>
 		<key>Modules/TekCoreNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -51,11 +75,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OysC9K74+RaJlUBEmmsAvyqyA1A=
+			YqH1Pyp/m99sF2KYshKt1cSVHP0=
 			</data>
 			<key>hash2</key>
 			<data>
-			jX09Qlmf3qa4fC1VbAmHBrBP5mTH+LyYmptH3Xx751g=
+			p0Lww2/IwoCic5Gl/27KIibo8VJzzBcezSHRd6MNydY=
 			</data>
 		</dict>
 		<key>Headers/TekCoreNetwork.h</key>
@@ -67,6 +91,72 @@
 			<key>hash2</key>
 			<data>
 			fuF2eq7PZVy6tv3JYGqk80ulivmleNvET4IKjViNGNc=
+			</data>
+		</dict>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jFuKPmHl9bQa+oqlKtEfDOdx/f4=
+			</data>
+			<key>hash2</key>
+			<data>
+			W+Q8guFtatGJJAN5p+jFlJuiQiixU1j76BVtRg4q+vY=
+			</data>
+		</dict>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BIEdIB+RByZ0ogLrEa8sgD7xu+g=
+			</data>
+			<key>hash2</key>
+			<data>
+			qxMzNHDKnbnnh5M02SnCa2k4SnKcf+FEkAsEmFeGLzs=
+			</data>
+		</dict>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iZV/CsrJXAHe1P/NrNb4KmVAph8=
+			</data>
+			<key>hash2</key>
+			<data>
+			zkDxZkmfRlaTtOEEis1NwlLMooZMeynNJGSPOEFuYok=
+			</data>
+		</dict>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jFuKPmHl9bQa+oqlKtEfDOdx/f4=
+			</data>
+			<key>hash2</key>
+			<data>
+			W+Q8guFtatGJJAN5p+jFlJuiQiixU1j76BVtRg4q+vY=
+			</data>
+		</dict>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BIEdIB+RByZ0ogLrEa8sgD7xu+g=
+			</data>
+			<key>hash2</key>
+			<data>
+			qxMzNHDKnbnnh5M02SnCa2k4SnKcf+FEkAsEmFeGLzs=
+			</data>
+		</dict>
+		<key>Modules/TekCoreNetwork.swiftmodule/i386.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iZV/CsrJXAHe1P/NrNb4KmVAph8=
+			</data>
+			<key>hash2</key>
+			<data>
+			zkDxZkmfRlaTtOEEis1NwlLMooZMeynNJGSPOEFuYok=
 			</data>
 		</dict>
 		<key>Modules/TekCoreNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
